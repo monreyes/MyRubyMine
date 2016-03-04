@@ -36,3 +36,4 @@ puts untouched
 # puts datestamp
 # mydir = C:\Users\rreyes.FARM\Dropbox\KnowledgeBase\Ruby\code\inventory\pubdiff.rb
 # > "pub-#{datestamp}".txt
+#modify this - 030416
