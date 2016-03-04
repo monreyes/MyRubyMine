@@ -1,0 +1,28 @@
+There are 15 files in the old-inventory.txt
+There are 18 files in the new-inventory.txt
+
+There are 5 files that has been added to the old inventory as per the below list:
+inv-011816.txt
+inventory-011816.txt
+recycler
+recycler/inst-39.tmp
+temp/inst-39
+
+There are 2 files that has been removed from the old inventory as per the below list:
+financial-records.xls
+temp/junk
+
+There are 13  files that have been untouched as listed below:
+exercise-differences.rb
+inventory.rb
+old-inventory.txt
+snapshots
+snapshots/differences-version-1.rb
+snapshots/differences-version-2.rb
+snapshots/differences-version-3.rb
+snapshots/differences-version-4.rb
+snapshots/differences-version-5.rb
+snapshots/differences-version-6.rb
+snapshots/differences-version-7.rb
+snapshots/differences-version-8.rb
+temp
